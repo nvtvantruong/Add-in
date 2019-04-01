@@ -114,3 +114,7 @@ https://app.prntscr.com/en/download.html
 https://drive.google.com/drive/u/0/folders/0B0Nnh1WLx7MuZzNKUU1leF9meWM
 +++++++++++++++
 C:\Program Files\Common Files\microsoft shared\Web Server Extensions\16\LOGS
+=====================
+
+
+https://collab365.community/forum/topics/forcing-ie-to-open-workflow-task-related-content-link-in-browser/
