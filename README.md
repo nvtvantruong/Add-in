@@ -118,3 +118,32 @@ C:\Program Files\Common Files\microsoft shared\Web Server Extensions\16\LOGS
 
 
 https://collab365.community/forum/topics/forcing-ie-to-open-workflow-task-related-content-link-in-browser/
+
+
+
+
++++++++++++
+https://intranet.eurowindow-holding.com				
+Tên  tài khoản	Họ tên	Chức năng	Pass	Group name
+Euroadminsite	Admin Euro	Admin Euro	2018@VTew2	
+tvda	Quản trị dự án 1	Quản lý dự án	ewtest@1102	Quan ly du an
+qtda2	Quản trị dự án 2	Quản lý dự án	ewtest@1102	Quan ly du an
+gdda1	Giám đốc dự án 1	Quản lý dự án	ewtest@1102	Quan ly du an
+gdda2	Giám đốc dự án 2	Quản lý dự án	ewtest@1102	Quan ly du an
+tlda1	Trợ lý dự án 1	Quản lý dự án	ewtest@1102	Quan ly du an
+tlda2	Trợ lý dự án 2	Quản lý dự án	ewtest@1102	Quan ly du an
+tvda1	Thành viên 1	Quản lý dự án	ewtest@1102	Quan ly du an
+tvda2	Thành viên 2	Quản lý dự án	ewtest@1102	Quan ly du an
+tvda3	Thành viên 3	Quản lý dự án	ewtest@1102	Quan ly du an
+tvda4	Thành viên 4	Quản lý dự án	ewtest@1102	Quan ly du an
+gd1	Giám đốc 1	Quy trình	ewtest@1102	Quy trinh
+gd2	Giám đốc 2	Quy trình	ewtest@1102	Quy trinh
+tphong1	Trưởng phòng 1	Quy trình	ewtest@1102	Quy trinh
+tphong2	Trương phòng 2	Quy trình	ewtest@1102	Quy trinh
+nvien1	Nhân viên 1	Quy trình	ewtest@1102	Quy trinh
+nvien2	Nhân viên 2	Quy trình	ewtest@1102	Quy trinh
+tgd	Tổng giám đốc	Quy trình	ewtest@1102	Quy trinh
+pgtd	Phó tổng giám đốc	Quy trình	ewtest@1102	Quy trinh
+tb	Trưởng ban	Quy trình	ewtest@1102	Quy trinh
+pb	Phó ban	Quy trình	ewtest@1102	Quy trinh
+
